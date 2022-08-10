@@ -8,6 +8,38 @@ img {
     height: 20%;
     position: relative;
 }
+/* menu */
+.left-div {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    text-align: left;
+    margin-top: 40px;
+}
+.right-div {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    text-align: right;
+    margin-right: 40px;
+    margin-top: 80px;
+}
+.center-div {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    text-align: center;
+    margin-right: 60px;
+    margin-top: 60px;
+}
+
+.left-div ul li {
+    list-style: none;
+}
+.right-div ul li {
+    list-style: none;
+}
+.center-div ul li {
+    list-style: none;
+}
+/* menu */
 
 /* Slide show */
 .slides {
