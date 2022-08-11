@@ -29,7 +29,7 @@ body {
 .slides {
     position: relative;
     background: #000;
-    height: 50vh;
+    height: 40vh;
     overflow: hidden;
 }
 .slides::after {
@@ -114,3 +114,4 @@ h4 {
     text-align: center;
 }
 /* footer design */
+
